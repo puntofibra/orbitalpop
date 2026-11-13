@@ -1,7 +1,7 @@
 'use strict';
 /* ═════════════ CONFIG ═════════════ */
 const CFG = {
-  API: 'PON_AQUI_LA_URL_EXEC',
+  API: 'https://script.google.com/macros/s/AKfycbzmVdLFv2Z-fF78BfIObS2yFeR7WogoReqz3lfyboPr-ySiCSs_PXdn_vaMRBgszE_AzQ/exec',
   GOOGLE: '454055120059-nuhaop4r62urc3u036cc3grpqo71ulg7.apps.googleusercontent.com'
 };
 const BASE = 'https://puntofibra.github.io/orbitalpop/';
